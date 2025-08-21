@@ -2,6 +2,8 @@
 __pycache__/
 *.py[codz]
 *$py.class
+scaler.pkl
+bestmodel.pkl
 
 # C extensions
 *.so
