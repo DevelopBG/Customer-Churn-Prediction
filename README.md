@@ -5,9 +5,10 @@ In this hands-on data science project, we build a complete customer churn predic
 ### Deatails of the dataset---
  Link - [Link](https://www.kaggle.com/datasets/abdullah0a/telecom-customer-churn-insights-for-analysis?resource=download)
  It is an imbalance dataset--
+    
     ![different classes](./images/dataset.png)
 
-The project covers:
+### The project covers:
 
 🔍 Exploratory Data Analysis (EDA)
 
@@ -30,5 +31,6 @@ Finally, we create an interactive Streamlit app to showcase the model and gain a
 ```
 
 
-Final Product --
+### Final Product --
+ 
  ![Final App](./images/app_sc.png)
