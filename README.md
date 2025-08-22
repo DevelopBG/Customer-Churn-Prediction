@@ -27,9 +27,8 @@ Finally, we create an interactive Streamlit app to showcase the model and gain a
 
 
 ### Details of the dataset---
- Link - [Link](https://www.kaggle.com/datasets/abdullah0a/telecom-customer-churn-insights-for-analysis?resource=download)
- It is an imbalanced dataset
-
+ [dataset](https://www.kaggle.com/datasets/abdullah0a/telecom-customer-churn-insights-for-analysis?resource=download)
+ 
  ![different classes](./images/dataset.png)
 
 ### Final Product --
