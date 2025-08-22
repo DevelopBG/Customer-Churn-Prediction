@@ -2,11 +2,6 @@
 
 In this hands-on data science project, we build a complete customer churn prediction model from scratch using Python.
 
-### Deatails of the dataset---
- Link - [Link](https://www.kaggle.com/datasets/abdullah0a/telecom-customer-churn-insights-for-analysis?resource=download)
- It is an imbalanced dataset
-
- ![different classes](./images/dataset.png)
 
 ### The project covers:
 
@@ -30,6 +25,12 @@ Finally, we create an interactive Streamlit app to showcase the model and gain a
 └── README.md            # Project documentation
 ```
 
+
+### Details of the dataset---
+ Link - [Link](https://www.kaggle.com/datasets/abdullah0a/telecom-customer-churn-insights-for-analysis?resource=download)
+ It is an imbalanced dataset
+
+ ![different classes](./images/dataset.png)
 
 ### Final Product --
  
